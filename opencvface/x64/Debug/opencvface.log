@@ -1,0 +1,78 @@
+﻿  Source.cpp
+D:\assignment\opencvface\opencvface\Source.cpp(49,67): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(49,37): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(50,53): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(50,24): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(95,67): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(95,37): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(96,53): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(96,24): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\assignment\opencvface\opencvface\Source.cpp(120,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\assignment\opencvface\opencvface\Source.cpp(125,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\assignment\opencvface\opencvface\Source.cpp(127,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\assignment\opencvface\opencvface\Source.cpp(134,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opencvface.vcxproj -> D:\assignment\opencvface\x64\Debug\opencvface.exe
